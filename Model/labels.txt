@@ -1,0 +1,5 @@
+0 Bathroom
+1 Correct
+2 Deaf
+3 Telephone
+4 Water
